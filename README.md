@@ -27,8 +27,7 @@ Problem 2: Collecting, storing and processing unstructured data
 Your task is to collect information about the different summer olympics from its Wikipedia page and
 process the data using Python’s urllib3 / requests (to get data) and BeautifulSoup library (for
 parsing/processing), and store the collected data in a SQLite database.
-TASK:
-1. Collect the main page of Summer Olympics Wikipedia for this task, the page is here:
+TASK:1. Collect the main page of Summer Olympics Wikipedia for this task, the page is here:
 https://en.wikipedia.org/wiki/Summer_Olympic_Games . Note that you might need to use
 headers for fetching this page.
 2. Now create a database Create a SQLite database named ‘OlympicsData.db’ and a table
