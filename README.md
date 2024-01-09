@@ -22,6 +22,7 @@ following columns:
 4. Insert the extracted data into the ‘city_weather’ table (note that you need to create the table
 only if it does not already exist)
 5. Test your system with three to five different cities of your choice, included in a test function.
+   
 Problem 2: Collecting, storing and processing unstructured data
 Your task is to collect information about the different summer olympics from its Wikipedia page and
 process the data using Python’s urllib3 / requests (to get data) and BeautifulSoup library (for
